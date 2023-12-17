@@ -1,0 +1,9 @@
+Numpy 
+* NumPy is a Python library
+* linear algebra, Fourier transform, and matrics 
+* Numerical Python
+
+Are you using the latest version of PyCharm? If so, locate "Python Package" and install NumPy directly within PyCharm.
+Alternatively, you can use the following code to install NumPy into your Python project.
+ " pip install numpy "
+
